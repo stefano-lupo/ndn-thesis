@@ -1,0 +1,12 @@
+[submodule "NdnGame"]
+	path = NdnGame
+	url = git@github.com:stefano-lupo/NdnGame.git
+[submodule "ndn-docker-topology-builder"]
+	path = ndn-docker-topology-builder
+	url = git@github.com:stefano-lupo/ndn-docker-topology-builder.git
+[submodule "ndn-thesis-report"]
+	path = ndn-thesis-report
+	url = git@github.com:stefano-lupo/ndn-thesis-report.git
+[submodule "ndn-analytics"]
+	path = ndn-analytics
+	url = git@github.com:stefano-lupo/ndn-analytics.git
